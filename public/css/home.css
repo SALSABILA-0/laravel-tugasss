@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: #FFF;
+    font-size: 5rem;
+    line-height: 15rem;
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 1), 
+    0px 0px 10px rgba(255, 255, 255, 1), 
+    0px 0px 15px rgba(255, 255, 255, 1),
+    0px 0px 20px rgb(24, 116, 255),
+    0px 0px 30px rgb(24, 59, 255),
+    0px 0px 40px rgb(101, 24, 255),
+    0px 0px 55px rgb(147, 24, 255),
+    0px 0px 75px rgb(255, 24, 240);
+}
